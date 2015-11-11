@@ -72,7 +72,7 @@ Requires:         python-oslo-policy >= 0.5.0
 Requires:         python-oslo-messaging > 1.17.0
 Requires:         python-oslo-middleware
 Requires:         python-oslo-serialization >= 1.4.0
-Requires:         python-keystonemiddleware >= 1.5.0
+Requires:         python-keystonemiddleware >= 2.2.0
 Requires:         python-pbr
 Requires:         python-pecan >= 0.4.5
 Requires:         python-six >= 1.6
@@ -84,7 +84,7 @@ Requires:         python-werkzeug
 Requires:         python-webob
 Requires:         python-wsme >= 0.6
 Requires:         python-paste-deploy
-Requires:         python-ceilometerclient
+Requires:         python-ceilometerclient >= 1.5.0
 Requires:         python-keystoneclient
 
 %description -n   python-aodh
